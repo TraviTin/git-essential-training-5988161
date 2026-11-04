@@ -1,1 +1,1 @@
-This is a new line, changing to demonstrate merge conflict.
+This is a new line, specifically for linkedin learning! hjkl
